@@ -925,10 +925,10 @@
     "ansi-styles" "^4.1.0"
     "supports-color" "^7.1.0"
 
-"chessground@^7.11.1":
-  "integrity" "sha512-IwGSEZBsQlquHyudv1Y5EwlfTXrz0CEWisJuEim2W3eX07IBpYUsr0ChTD35du+Cr0x1+e6GbCLY3hVejKG7ow=="
-  "resolved" "https://registry.npmjs.org/chessground/-/chessground-7.11.1.tgz"
-  "version" "7.11.1"
+"chessground@8.1.9":
+  "integrity" "sha512-IZSgOzNtQFE1YNAwtYJYqHwIY/+fHK5ZLhg6qq0nLM/580S1A3hcinfz7mxDwMMeIkcnM4n11IOQfrco9fcJIg=="
+  "resolved" "https://registry.npmjs.org/chessground/-/chessground-8.1.9.tgz"
+  "version" "8.1.9"
 
 "chownr@^2.0.0":
   "integrity" "sha512-bIomtDF5KGpdogkLd9VspvFzk9KfpyyGlS8YFVZl7TGPBHL5snIOnxeshwVgPteQ9b4Eydl+pVbIyE1DcvCWgQ=="
