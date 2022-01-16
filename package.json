@@ -48,8 +48,8 @@
     "typescript": "^4.2.4"
   },
   "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react": "^16.8.0 || ^17.0.2",
+    "react-dom": "^16.8.0 || ^17.0.2"
   },
   "dependencies": {
     "chessground": "^7.11.1"
